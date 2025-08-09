@@ -1,1 +1,1 @@
-# Animal-Detection-in-Farming-using-YOLO-Ensemble-Models
+Developed a deep learning-based object detection system for farm surveillance using an ensemble of YOLOv8 to YOLOv11 models. The approach integrates advanced techniques such as Test Time Augmentation (TTA), Soft-NMS, and weighted model averaging to improve detection accuracy and robustness in classifying wild animals, domestic animals, and no-animal scenarios.
